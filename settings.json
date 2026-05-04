@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "lodda gadu",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "lodda gadu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Rama2129-wlKO.aternos.me",
+    "port": 30166,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a regular lodda",
+        "nigga",
         "I like to play Minecraft!"
       ]
     },
